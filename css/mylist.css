@@ -1,0 +1,7 @@
+.mylist {
+  display: flex;
+  width: 100%;
+}
+.mylist .mylistContainer {
+  flex: 6;
+}/*# sourceMappingURL=mylist.css.map */
